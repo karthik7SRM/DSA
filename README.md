@@ -20,7 +20,7 @@ A structured roadmap to master DSA for coding interviews and strong problem-solv
 
 # 📦 2. Arrays
 
-- [ ] Linear Search
+- [x] Linear Search
 - [ ] Binary Search
 - [ ] Find Largest / Smallest Element
 - [ ] Reverse an Array
