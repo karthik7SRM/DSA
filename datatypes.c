@@ -7,5 +7,6 @@ int main() {
     long d = 6.6;
     printf("%d",a);
     printf("%f",b);
+    printf("%s",c);
     return 0;
 }
