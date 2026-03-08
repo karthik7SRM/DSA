@@ -6,5 +6,6 @@ int main() {
     char c = "c";
     long d = 6.6;
     printf("%d",a);
+    printf("%f",b);
     return 0;
 }
