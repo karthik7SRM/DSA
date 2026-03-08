@@ -5,5 +5,6 @@ int main() {
     float b =5.5;
     char c = "c";
     long d = 6.6;
+    printf("%d",a);
     return 0;
 }
